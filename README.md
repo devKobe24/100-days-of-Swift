@@ -22,7 +22,7 @@ Study period | 24.01.14 ~ 24.04.22
 
 | Date | Prgress | 
 | -------- | -------- |
-| 24.01.14| |
+| 24.01.14| Variables |
 
 ## 📑 References
 
